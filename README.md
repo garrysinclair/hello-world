@@ -1,2 +1,3 @@
 # hello-world
-Hello world repository to get started with github
+Garry Sinclair, Managing Consultant, Delegate A/S
+Hummeltoftevej
